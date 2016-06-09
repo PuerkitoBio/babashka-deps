@@ -10,3 +10,7 @@ add_user() {
     }
     process
 }
+
+add_test_user() {
+    add_user testu
+}
